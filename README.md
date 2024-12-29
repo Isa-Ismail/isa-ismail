@@ -14,7 +14,7 @@ I'm a passionate developer who loves to code and learn new technologies. Welcome
 
 ## 📫 How to reach me
 - LinkedIn: [(https://www.linkedin.com/in/isa-mohammad-ismail-80b3b21b0/]
-- Twitter: [https://x.com/ISMAILFAHIM15]
+- Twitter: [(https://x.com/isa_ismail90635)]
 - Email: fahimismail75.scc@gmail.com
 
 ## 🌟 Fun fact
