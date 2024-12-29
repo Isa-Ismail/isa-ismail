@@ -13,7 +13,7 @@ I'm a passionate developer who loves to code and learn new technologies. Welcome
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-ismail&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- LinkedIn: [[Your LinkedIn profile URL](https://www.linkedin.com/in/isa-mohammad-ismail-80b3b21b0/)]
+- LinkedIn: [(https://www.linkedin.com/in/isa-mohammad-ismail-80b3b21b0/]
 - Twitter: [https://x.com/ISMAILFAHIM15]
 - Email: fahimismail75.scc@gmail.com
 
