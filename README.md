@@ -21,4 +21,4 @@ I'm a passionate developer who loves to code and learn new technologies. Welcome
 There is nothing fun about me. I am a developer
 
 ---
-⭐️ From [yourusername](https://github.com/isa-ismail)
+⭐️ From [Isa Mohammad Ismail](https://github.com/isa-ismail)
