@@ -18,7 +18,7 @@ I'm a passionate developer who loves to code and learn new technologies. Welcome
 - Email: fahimismail75.scc@gmail.com
 
 ## 🌟 Fun fact
-[There is nothing fun about me. I am a developer]
+There is nothing fun about me. I am a developer
 
 ---
 ⭐️ From [yourusername](https://github.com/isa-ismail)
