@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Isa Mohammad Ismail
 
-<!--
-**Isa-Ismail/isa-ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer who loves to code and learn new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming Languages: [JavaScript, Typescript, Python, Java]
+- Web Technologies: [e.g., HTML, CSS, React, Node.js, Tailwind, MUI, Next js, Shadcn UI]
+- Databases: [e.g., MySQL, MongoDB, PostgresQL]
+- Tools: [e.g., Git, Docker, BitBucket, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-ismail&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- LinkedIn: [[Your LinkedIn profile URL](https://www.linkedin.com/in/isa-mohammad-ismail-80b3b21b0/)]
+- Twitter: [https://x.com/ISMAILFAHIM15]
+- Email: fahimismail75.scc@gmail.com
+
+## 🌟 Fun fact
+[There is nothing fun about me. I am a developer]
+
+---
+⭐️ From [yourusername](https://github.com/isa-ismail)
