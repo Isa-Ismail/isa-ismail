@@ -5,9 +5,9 @@ I'm a passionate developer who loves to code and learn new technologies. Welcome
 
 ## 🔧 Skills
 - Programming Languages: [JavaScript, Typescript, Python, Java]
-- Web Technologies: [e.g., HTML, CSS, React, Node.js, Tailwind, MUI, Next js, Shadcn UI]
-- Databases: [e.g., MySQL, MongoDB, PostgresQL]
-- Tools: [e.g., Git, Docker, BitBucket, VS Code]
+- Web Technologies: [HTML, CSS, React, Node.js, Tailwind, MUI, Next js, Shadcn UI]
+- Databases: [MySQL, MongoDB, PostgresQL]
+- Tools: [Git, Docker, BitBucket, VS Code]
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-ismail&show_icons=true&theme=radical)
